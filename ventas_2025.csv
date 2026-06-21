@@ -1,0 +1,501 @@
+ID_Venta,Fecha,Ciudad,Cliente,Producto,Categoria,Cantidad,Precio_Unitario,Metodo_Pago
+1,2025-04-07,Manta,Cliente_001,Laptop,Tecnologia,3,850,Efectivo
+2,2025-05-13,Guayaquil,Cliente_002,Celular,Tecnologia,1,420,Efectivo
+3,2025-12-14,Quito,Cliente_003,Impresora,Tecnologia,2,140,Efectivo
+4,2025-01-14,Quito,Cliente_004,Celular,Tecnologia,4,420,Transferencia
+5,2025-06-20,Guayaquil,Cliente_005,Teclado,Tecnologia,4,35,Tarjeta
+6,2025-05-16,Machala,Cliente_006,Memoria USB,Tecnologia,4,18,Transferencia
+7,2025-05-04,Guayaquil,Cliente_007,Teclado,Tecnologia,3,35,Efectivo
+8,2025-12-03,Guayaquil,Cliente_008,Teclado,Tecnologia,3,35,Transferencia
+9,2025-10-19,Loja,Cliente_009,Disco SSD,Tecnologia,5,90,Transferencia
+10,2025-12-19,Loja,Cliente_010,Tablet,Tecnologia,4,250,Tarjeta
+11,2025-11-29,Cuenca,Cliente_011,Laptop,Tecnologia,5,850,Tarjeta
+12,2025-06-01,Ambato,Cliente_012,Tablet,Tecnologia,1,250,Transferencia
+13,2025-07-29,Loja,Cliente_013,Monitor,Tecnologia,5,180,Transferencia
+14,2025-04-04,Manta,Cliente_014,Celular,Tecnologia,3,420,Transferencia
+15,2025-11-19,Manta,Cliente_015,Monitor,Tecnologia,2,180,Transferencia
+16,2025-07-03,Loja,Cliente_016,Audifonos,Tecnologia,4,45,Efectivo
+17,2025-09-22,Santo Domingo,Cliente_017,Audifonos,Tecnologia,1,45,Transferencia
+18,2025-02-01,Santo Domingo,Cliente_018,Memoria USB,Tecnologia,5,18,Transferencia
+19,2025-05-23,Ambato,Cliente_019,Mouse,Tecnologia,2,25,Tarjeta
+20,2025-02-27,Loja,Cliente_020,Audifonos,Tecnologia,5,45,Tarjeta
+21,2025-03-15,Manta,Cliente_021,Mouse,Tecnologia,5,25,Transferencia
+22,2025-09-03,Cuenca,Cliente_022,Tablet,Tecnologia,2,250,Transferencia
+23,2025-02-24,Quito,Cliente_023,Monitor,Tecnologia,3,180,Tarjeta
+24,2025-12-28,Santo Domingo,Cliente_024,Impresora,Tecnologia,4,140,Tarjeta
+25,2025-06-05,Loja,Cliente_025,Laptop,Tecnologia,3,850,Tarjeta
+26,2025-12-06,Loja,Cliente_026,Celular,Tecnologia,5,420,Transferencia
+27,2025-02-15,Santo Domingo,Cliente_027,Impresora,Tecnologia,5,140,Tarjeta
+28,2025-12-04,Santo Domingo,Cliente_028,Celular,Tecnologia,5,420,Efectivo
+29,2025-04-20,Ambato,Cliente_029,Impresora,Tecnologia,3,140,Transferencia
+30,2025-06-20,Guayaquil,Cliente_030,Celular,Tecnologia,4,420,Efectivo
+31,2025-04-15,Loja,Cliente_031,Audifonos,Tecnologia,1,45,Efectivo
+32,2025-01-17,Quito,Cliente_032,Disco SSD,Tecnologia,5,90,Tarjeta
+33,2025-01-12,Ambato,Cliente_033,Laptop,Tecnologia,2,850,Transferencia
+34,2025-02-06,Manta,Cliente_034,Teclado,Tecnologia,3,35,Transferencia
+35,2025-02-04,Loja,Cliente_035,Impresora,Tecnologia,3,140,Efectivo
+36,2025-05-21,Machala,Cliente_036,Mouse,Tecnologia,3,25,Efectivo
+37,2025-07-08,Machala,Cliente_037,Disco SSD,Tecnologia,4,90,Transferencia
+38,2025-10-22,Manta,Cliente_038,Teclado,Tecnologia,4,35,Tarjeta
+39,2025-07-14,Ambato,Cliente_039,Tablet,Tecnologia,2,250,Tarjeta
+40,2025-08-16,Loja,Cliente_040,Impresora,Tecnologia,3,140,Transferencia
+41,2025-09-29,Guayaquil,Cliente_041,Memoria USB,Tecnologia,3,18,Transferencia
+42,2025-11-14,Machala,Cliente_042,Celular,Tecnologia,1,420,Tarjeta
+43,2025-07-02,Guayaquil,Cliente_043,Celular,Tecnologia,4,420,Transferencia
+44,2025-08-11,Quito,Cliente_044,Laptop,Tecnologia,1,850,Tarjeta
+45,2025-12-22,Quito,Cliente_045,Tablet,Tecnologia,3,250,Efectivo
+46,2025-12-02,Machala,Cliente_046,Mouse,Tecnologia,2,25,Efectivo
+47,2025-01-05,Ambato,Cliente_047,Celular,Tecnologia,1,420,Tarjeta
+48,2025-08-27,Loja,Cliente_048,Memoria USB,Tecnologia,5,18,Tarjeta
+49,2025-05-12,Machala,Cliente_049,Laptop,Tecnologia,3,850,Tarjeta
+50,2025-10-10,Cuenca,Cliente_050,Impresora,Tecnologia,2,140,Efectivo
+51,2025-10-21,Quito,Cliente_051,Mouse,Tecnologia,2,25,Efectivo
+52,2025-04-13,Manta,Cliente_052,Teclado,Tecnologia,3,35,Efectivo
+53,2025-11-28,Ambato,Cliente_053,Teclado,Tecnologia,1,35,Tarjeta
+54,2025-08-15,Guayaquil,Cliente_054,Mouse,Tecnologia,1,25,Efectivo
+55,2025-10-28,Machala,Cliente_055,Celular,Tecnologia,2,420,Transferencia
+56,2025-03-01,Ambato,Cliente_056,Monitor,Tecnologia,1,180,Tarjeta
+57,2025-02-03,Santo Domingo,Cliente_057,Tablet,Tecnologia,4,250,Efectivo
+58,2025-04-08,Cuenca,Cliente_058,Mouse,Tecnologia,4,25,Transferencia
+59,2025-06-03,Manta,Cliente_059,Disco SSD,Tecnologia,5,90,Tarjeta
+60,2025-05-24,Guayaquil,Cliente_060,Monitor,Tecnologia,2,180,Tarjeta
+61,2025-10-04,Machala,Cliente_061,Disco SSD,Tecnologia,5,90,Transferencia
+62,2025-07-05,Guayaquil,Cliente_062,Tablet,Tecnologia,5,250,Efectivo
+63,2025-05-19,Machala,Cliente_063,Laptop,Tecnologia,4,850,Tarjeta
+64,2025-08-14,Santo Domingo,Cliente_064,Tablet,Tecnologia,5,250,Transferencia
+65,2025-05-13,Loja,Cliente_065,Disco SSD,Tecnologia,5,90,Transferencia
+66,2025-11-27,Quito,Cliente_066,Mouse,Tecnologia,5,25,Tarjeta
+67,2025-10-12,Guayaquil,Cliente_067,Monitor,Tecnologia,5,180,Transferencia
+68,2025-08-22,Guayaquil,Cliente_068,Mouse,Tecnologia,1,25,Tarjeta
+69,2025-06-16,Quito,Cliente_069,Mouse,Tecnologia,1,25,Efectivo
+70,2025-11-27,Manta,Cliente_070,Tablet,Tecnologia,2,250,Transferencia
+71,2025-10-22,Santo Domingo,Cliente_071,Tablet,Tecnologia,3,250,Tarjeta
+72,2025-02-24,Cuenca,Cliente_072,Mouse,Tecnologia,1,25,Tarjeta
+73,2025-12-13,Santo Domingo,Cliente_073,Mouse,Tecnologia,4,25,Transferencia
+74,2025-08-29,Loja,Cliente_074,Impresora,Tecnologia,1,140,Tarjeta
+75,2025-10-17,Manta,Cliente_075,Mouse,Tecnologia,2,25,Transferencia
+76,2025-06-17,Quito,Cliente_076,Tablet,Tecnologia,3,250,Transferencia
+77,2025-06-21,Ambato,Cliente_077,Memoria USB,Tecnologia,5,18,Efectivo
+78,2025-07-01,Cuenca,Cliente_078,Teclado,Tecnologia,4,35,Transferencia
+79,2025-09-11,Quito,Cliente_079,Audifonos,Tecnologia,3,45,Tarjeta
+80,2025-10-11,Guayaquil,Cliente_080,Tablet,Tecnologia,1,250,Efectivo
+81,2025-06-03,Santo Domingo,Cliente_081,Impresora,Tecnologia,2,140,Efectivo
+82,2025-07-14,Ambato,Cliente_082,Audifonos,Tecnologia,3,45,Transferencia
+83,2025-07-15,Guayaquil,Cliente_083,Monitor,Tecnologia,1,180,Transferencia
+84,2025-01-25,Loja,Cliente_084,Disco SSD,Tecnologia,4,90,Transferencia
+85,2025-02-18,Loja,Cliente_085,Monitor,Tecnologia,1,180,Efectivo
+86,2025-05-15,Loja,Cliente_086,Tablet,Tecnologia,4,250,Transferencia
+87,2025-05-29,Santo Domingo,Cliente_087,Laptop,Tecnologia,4,850,Tarjeta
+88,2025-03-28,Loja,Cliente_088,Memoria USB,Tecnologia,2,18,Tarjeta
+89,2025-06-01,Quito,Cliente_089,Celular,Tecnologia,5,420,Transferencia
+90,2025-12-08,Santo Domingo,Cliente_090,Mouse,Tecnologia,2,25,Transferencia
+91,2025-03-23,Ambato,Cliente_091,Teclado,Tecnologia,5,35,Tarjeta
+92,2025-03-12,Quito,Cliente_092,Audifonos,Tecnologia,5,45,Efectivo
+93,2025-04-17,Quito,Cliente_093,Monitor,Tecnologia,2,180,Efectivo
+94,2025-04-14,Santo Domingo,Cliente_094,Disco SSD,Tecnologia,2,90,Efectivo
+95,2025-09-15,Machala,Cliente_095,Celular,Tecnologia,4,420,Efectivo
+96,2025-07-28,Loja,Cliente_096,Mouse,Tecnologia,1,25,Transferencia
+97,2025-02-19,Machala,Cliente_097,Memoria USB,Tecnologia,5,18,Efectivo
+98,2025-05-17,Cuenca,Cliente_098,Disco SSD,Tecnologia,4,90,Transferencia
+99,2025-05-05,Manta,Cliente_099,Impresora,Tecnologia,3,140,Transferencia
+100,2025-08-22,Cuenca,Cliente_100,Mouse,Tecnologia,4,25,Efectivo
+101,2025-06-24,Manta,Cliente_101,Laptop,Tecnologia,4,850,Efectivo
+102,2025-02-08,Quito,Cliente_102,Impresora,Tecnologia,5,140,Efectivo
+103,2025-02-01,Guayaquil,Cliente_103,Celular,Tecnologia,4,420,Tarjeta
+104,2025-12-05,Manta,Cliente_104,Celular,Tecnologia,1,420,Transferencia
+105,2025-04-05,Manta,Cliente_105,Mouse,Tecnologia,2,25,Transferencia
+106,2025-06-17,Cuenca,Cliente_106,Teclado,Tecnologia,1,35,Tarjeta
+107,2025-08-30,Machala,Cliente_107,Mouse,Tecnologia,3,25,Tarjeta
+108,2025-04-22,Cuenca,Cliente_108,Disco SSD,Tecnologia,2,90,Transferencia
+109,2025-07-05,Manta,Cliente_109,Memoria USB,Tecnologia,5,18,Transferencia
+110,2025-09-29,Guayaquil,Cliente_110,Audifonos,Tecnologia,3,45,Transferencia
+111,2025-06-14,Loja,Cliente_111,Memoria USB,Tecnologia,3,18,Transferencia
+112,2025-09-22,Machala,Cliente_112,Impresora,Tecnologia,5,140,Tarjeta
+113,2025-01-31,Machala,Cliente_113,Disco SSD,Tecnologia,4,90,Efectivo
+114,2025-11-08,Loja,Cliente_114,Disco SSD,Tecnologia,3,90,Tarjeta
+115,2025-08-01,Manta,Cliente_115,Mouse,Tecnologia,3,25,Tarjeta
+116,2025-01-12,Manta,Cliente_116,Celular,Tecnologia,3,420,Efectivo
+117,2025-01-14,Guayaquil,Cliente_117,Audifonos,Tecnologia,5,45,Transferencia
+118,2025-05-15,Manta,Cliente_118,Monitor,Tecnologia,3,180,Tarjeta
+119,2025-11-02,Manta,Cliente_119,Laptop,Tecnologia,2,850,Efectivo
+120,2025-11-22,Guayaquil,Cliente_120,Memoria USB,Tecnologia,5,18,Efectivo
+121,2025-09-01,Ambato,Cliente_121,Impresora,Tecnologia,4,140,Tarjeta
+122,2025-01-19,Guayaquil,Cliente_122,Tablet,Tecnologia,1,250,Tarjeta
+123,2025-08-02,Machala,Cliente_123,Tablet,Tecnologia,3,250,Efectivo
+124,2025-10-23,Cuenca,Cliente_124,Audifonos,Tecnologia,1,45,Transferencia
+125,2025-02-14,Machala,Cliente_125,Celular,Tecnologia,5,420,Efectivo
+126,2025-02-14,Manta,Cliente_126,Teclado,Tecnologia,1,35,Tarjeta
+127,2025-10-30,Cuenca,Cliente_127,Teclado,Tecnologia,4,35,Tarjeta
+128,2025-03-23,Manta,Cliente_128,Mouse,Tecnologia,5,25,Tarjeta
+129,2025-06-29,Guayaquil,Cliente_129,Disco SSD,Tecnologia,5,90,Efectivo
+130,2025-07-30,Loja,Cliente_130,Celular,Tecnologia,2,420,Transferencia
+131,2025-02-11,Guayaquil,Cliente_131,Monitor,Tecnologia,1,180,Efectivo
+132,2025-09-08,Manta,Cliente_132,Impresora,Tecnologia,1,140,Transferencia
+133,2025-11-28,Santo Domingo,Cliente_133,Teclado,Tecnologia,2,35,Efectivo
+134,2025-07-29,Guayaquil,Cliente_134,Celular,Tecnologia,1,420,Transferencia
+135,2025-04-26,Loja,Cliente_135,Impresora,Tecnologia,1,140,Tarjeta
+136,2025-04-28,Loja,Cliente_136,Teclado,Tecnologia,3,35,Tarjeta
+137,2025-05-28,Santo Domingo,Cliente_137,Celular,Tecnologia,1,420,Tarjeta
+138,2025-03-12,Guayaquil,Cliente_138,Mouse,Tecnologia,3,25,Tarjeta
+139,2025-05-06,Ambato,Cliente_139,Tablet,Tecnologia,3,250,Transferencia
+140,2025-03-13,Ambato,Cliente_140,Disco SSD,Tecnologia,3,90,Efectivo
+141,2025-10-08,Guayaquil,Cliente_141,Laptop,Tecnologia,1,850,Transferencia
+142,2025-09-30,Loja,Cliente_142,Memoria USB,Tecnologia,3,18,Tarjeta
+143,2025-01-22,Quito,Cliente_143,Impresora,Tecnologia,3,140,Efectivo
+144,2025-11-22,Loja,Cliente_144,Audifonos,Tecnologia,2,45,Efectivo
+145,2025-07-01,Santo Domingo,Cliente_145,Mouse,Tecnologia,2,25,Efectivo
+146,2025-03-18,Ambato,Cliente_146,Tablet,Tecnologia,1,250,Transferencia
+147,2025-11-27,Loja,Cliente_147,Tablet,Tecnologia,3,250,Tarjeta
+148,2025-08-06,Ambato,Cliente_148,Memoria USB,Tecnologia,3,18,Transferencia
+149,2025-02-22,Machala,Cliente_149,Audifonos,Tecnologia,4,45,Transferencia
+150,2025-04-13,Manta,Cliente_150,Impresora,Tecnologia,1,140,Tarjeta
+151,2025-11-23,Quito,Cliente_151,Tablet,Tecnologia,5,250,Efectivo
+152,2025-12-24,Ambato,Cliente_152,Mouse,Tecnologia,2,25,Efectivo
+153,2025-04-12,Guayaquil,Cliente_153,Celular,Tecnologia,1,420,Transferencia
+154,2025-04-27,Machala,Cliente_154,Audifonos,Tecnologia,3,45,Transferencia
+155,2025-04-05,Cuenca,Cliente_155,Tablet,Tecnologia,2,250,Transferencia
+156,2025-09-24,Quito,Cliente_156,Mouse,Tecnologia,1,25,Efectivo
+157,2025-10-06,Guayaquil,Cliente_157,Memoria USB,Tecnologia,4,18,Efectivo
+158,2025-11-18,Loja,Cliente_158,Mouse,Tecnologia,3,25,Transferencia
+159,2025-12-09,Ambato,Cliente_159,Monitor,Tecnologia,3,180,Tarjeta
+160,2025-04-25,Machala,Cliente_160,Laptop,Tecnologia,5,850,Efectivo
+161,2025-06-25,Loja,Cliente_161,Impresora,Tecnologia,3,140,Efectivo
+162,2025-11-06,Santo Domingo,Cliente_162,Disco SSD,Tecnologia,1,90,Transferencia
+163,2025-12-26,Santo Domingo,Cliente_163,Celular,Tecnologia,4,420,Transferencia
+164,2025-10-25,Guayaquil,Cliente_164,Teclado,Tecnologia,2,35,Tarjeta
+165,2025-09-03,Cuenca,Cliente_165,Mouse,Tecnologia,2,25,Efectivo
+166,2025-05-24,Machala,Cliente_166,Tablet,Tecnologia,3,250,Efectivo
+167,2025-06-26,Quito,Cliente_167,Tablet,Tecnologia,2,250,Efectivo
+168,2025-05-30,Cuenca,Cliente_168,Memoria USB,Tecnologia,1,18,Efectivo
+169,2025-03-06,Machala,Cliente_169,Teclado,Tecnologia,1,35,Transferencia
+170,2025-04-10,Ambato,Cliente_170,Monitor,Tecnologia,5,180,Tarjeta
+171,2025-12-13,Manta,Cliente_171,Mouse,Tecnologia,5,25,Efectivo
+172,2025-08-20,Manta,Cliente_172,Memoria USB,Tecnologia,2,18,Efectivo
+173,2025-03-07,Loja,Cliente_173,Tablet,Tecnologia,1,250,Transferencia
+174,2025-12-19,Manta,Cliente_174,Tablet,Tecnologia,3,250,Transferencia
+175,2025-09-25,Santo Domingo,Cliente_175,Memoria USB,Tecnologia,1,18,Tarjeta
+176,2025-05-24,Machala,Cliente_176,Mouse,Tecnologia,2,25,Efectivo
+177,2025-01-15,Loja,Cliente_177,Tablet,Tecnologia,2,250,Transferencia
+178,2025-12-02,Guayaquil,Cliente_178,Tablet,Tecnologia,5,250,Efectivo
+179,2025-11-04,Cuenca,Cliente_179,Audifonos,Tecnologia,1,45,Transferencia
+180,2025-09-20,Santo Domingo,Cliente_180,Memoria USB,Tecnologia,1,18,Efectivo
+181,2025-05-25,Quito,Cliente_181,Monitor,Tecnologia,1,180,Transferencia
+182,2025-12-17,Ambato,Cliente_182,Disco SSD,Tecnologia,2,90,Transferencia
+183,2025-08-13,Santo Domingo,Cliente_183,Celular,Tecnologia,3,420,Transferencia
+184,2025-05-19,Ambato,Cliente_184,Laptop,Tecnologia,2,850,Tarjeta
+185,2025-10-27,Guayaquil,Cliente_185,Teclado,Tecnologia,3,35,Efectivo
+186,2025-07-29,Ambato,Cliente_186,Tablet,Tecnologia,3,250,Efectivo
+187,2025-03-22,Machala,Cliente_187,Laptop,Tecnologia,5,850,Transferencia
+188,2025-12-23,Machala,Cliente_188,Memoria USB,Tecnologia,2,18,Tarjeta
+189,2025-05-02,Ambato,Cliente_189,Impresora,Tecnologia,3,140,Transferencia
+190,2025-02-16,Cuenca,Cliente_190,Audifonos,Tecnologia,3,45,Efectivo
+191,2025-02-10,Loja,Cliente_191,Monitor,Tecnologia,5,180,Tarjeta
+192,2025-05-20,Quito,Cliente_192,Memoria USB,Tecnologia,4,18,Efectivo
+193,2025-11-11,Machala,Cliente_193,Memoria USB,Tecnologia,3,18,Transferencia
+194,2025-09-24,Guayaquil,Cliente_194,Tablet,Tecnologia,3,250,Efectivo
+195,2025-02-02,Ambato,Cliente_195,Memoria USB,Tecnologia,5,18,Tarjeta
+196,2025-03-14,Loja,Cliente_196,Impresora,Tecnologia,2,140,Tarjeta
+197,2025-05-09,Guayaquil,Cliente_197,Monitor,Tecnologia,2,180,Transferencia
+198,2025-06-09,Santo Domingo,Cliente_198,Memoria USB,Tecnologia,5,18,Efectivo
+199,2025-06-24,Manta,Cliente_199,Disco SSD,Tecnologia,2,90,Transferencia
+200,2025-06-17,Machala,Cliente_200,Audifonos,Tecnologia,5,45,Efectivo
+201,2025-04-19,Guayaquil,Cliente_201,Laptop,Tecnologia,4,850,Transferencia
+202,2025-08-23,Santo Domingo,Cliente_202,Mouse,Tecnologia,1,25,Tarjeta
+203,2025-05-02,Quito,Cliente_203,Memoria USB,Tecnologia,5,18,Efectivo
+204,2025-09-25,Loja,Cliente_204,Teclado,Tecnologia,5,35,Transferencia
+205,2025-05-14,Cuenca,Cliente_205,Teclado,Tecnologia,4,35,Efectivo
+206,2025-05-23,Machala,Cliente_206,Celular,Tecnologia,4,420,Efectivo
+207,2025-08-24,Cuenca,Cliente_207,Memoria USB,Tecnologia,3,18,Efectivo
+208,2025-05-25,Ambato,Cliente_208,Monitor,Tecnologia,3,180,Transferencia
+209,2025-10-17,Cuenca,Cliente_209,Monitor,Tecnologia,2,180,Efectivo
+210,2025-08-04,Cuenca,Cliente_210,Laptop,Tecnologia,2,850,Efectivo
+211,2025-05-05,Loja,Cliente_211,Mouse,Tecnologia,3,25,Efectivo
+212,2025-03-25,Machala,Cliente_212,Disco SSD,Tecnologia,5,90,Efectivo
+213,2025-07-30,Ambato,Cliente_213,Tablet,Tecnologia,1,250,Efectivo
+214,2025-04-08,Quito,Cliente_214,Disco SSD,Tecnologia,5,90,Tarjeta
+215,2025-09-04,Ambato,Cliente_215,Celular,Tecnologia,5,420,Transferencia
+216,2025-09-15,Loja,Cliente_216,Tablet,Tecnologia,1,250,Transferencia
+217,2025-04-05,Cuenca,Cliente_217,Tablet,Tecnologia,2,250,Efectivo
+218,2025-09-28,Quito,Cliente_218,Memoria USB,Tecnologia,3,18,Efectivo
+219,2025-11-21,Santo Domingo,Cliente_219,Teclado,Tecnologia,5,35,Tarjeta
+220,2025-06-15,Guayaquil,Cliente_220,Audifonos,Tecnologia,2,45,Transferencia
+221,2025-11-30,Quito,Cliente_221,Mouse,Tecnologia,5,25,Tarjeta
+222,2025-06-22,Santo Domingo,Cliente_222,Celular,Tecnologia,2,420,Transferencia
+223,2025-04-22,Santo Domingo,Cliente_223,Monitor,Tecnologia,1,180,Efectivo
+224,2025-01-03,Ambato,Cliente_224,Mouse,Tecnologia,2,25,Transferencia
+225,2025-04-12,Manta,Cliente_225,Tablet,Tecnologia,3,250,Efectivo
+226,2025-12-18,Manta,Cliente_226,Laptop,Tecnologia,2,850,Tarjeta
+227,2025-04-19,Ambato,Cliente_227,Mouse,Tecnologia,4,25,Efectivo
+228,2025-11-27,Manta,Cliente_228,Celular,Tecnologia,1,420,Transferencia
+229,2025-10-10,Quito,Cliente_229,Impresora,Tecnologia,1,140,Tarjeta
+230,2025-03-07,Manta,Cliente_230,Disco SSD,Tecnologia,5,90,Transferencia
+231,2025-12-05,Quito,Cliente_231,Tablet,Tecnologia,3,250,Efectivo
+232,2025-08-30,Ambato,Cliente_232,Teclado,Tecnologia,1,35,Transferencia
+233,2025-02-23,Guayaquil,Cliente_233,Disco SSD,Tecnologia,1,90,Efectivo
+234,2025-07-21,Santo Domingo,Cliente_234,Memoria USB,Tecnologia,2,18,Tarjeta
+235,2025-07-16,Guayaquil,Cliente_235,Monitor,Tecnologia,2,180,Efectivo
+236,2025-04-16,Guayaquil,Cliente_236,Audifonos,Tecnologia,3,45,Transferencia
+237,2025-06-12,Loja,Cliente_237,Disco SSD,Tecnologia,5,90,Tarjeta
+238,2025-06-10,Santo Domingo,Cliente_238,Mouse,Tecnologia,5,25,Efectivo
+239,2025-07-29,Santo Domingo,Cliente_239,Impresora,Tecnologia,2,140,Tarjeta
+240,2025-07-01,Guayaquil,Cliente_240,Monitor,Tecnologia,5,180,Transferencia
+241,2025-12-30,Ambato,Cliente_241,Teclado,Tecnologia,5,35,Efectivo
+242,2025-03-21,Cuenca,Cliente_242,Celular,Tecnologia,5,420,Tarjeta
+243,2025-01-11,Machala,Cliente_243,Memoria USB,Tecnologia,5,18,Tarjeta
+244,2025-02-02,Santo Domingo,Cliente_244,Memoria USB,Tecnologia,5,18,Transferencia
+245,2025-09-05,Quito,Cliente_245,Disco SSD,Tecnologia,1,90,Transferencia
+246,2025-05-01,Quito,Cliente_246,Audifonos,Tecnologia,5,45,Tarjeta
+247,2025-09-10,Guayaquil,Cliente_247,Celular,Tecnologia,1,420,Tarjeta
+248,2025-08-28,Manta,Cliente_248,Monitor,Tecnologia,3,180,Transferencia
+249,2025-05-25,Manta,Cliente_249,Disco SSD,Tecnologia,5,90,Transferencia
+250,2025-09-10,Ambato,Cliente_250,Monitor,Tecnologia,4,180,Tarjeta
+251,2025-05-06,Cuenca,Cliente_251,Celular,Tecnologia,5,420,Tarjeta
+252,2025-05-17,Manta,Cliente_252,Celular,Tecnologia,3,420,Transferencia
+253,2025-11-07,Machala,Cliente_253,Impresora,Tecnologia,4,140,Efectivo
+254,2025-10-16,Manta,Cliente_254,Mouse,Tecnologia,2,25,Tarjeta
+255,2025-12-13,Loja,Cliente_255,Monitor,Tecnologia,4,180,Transferencia
+256,2025-01-26,Manta,Cliente_256,Monitor,Tecnologia,5,180,Tarjeta
+257,2025-05-22,Ambato,Cliente_257,Disco SSD,Tecnologia,4,90,Transferencia
+258,2025-06-07,Cuenca,Cliente_258,Mouse,Tecnologia,5,25,Efectivo
+259,2025-12-04,Cuenca,Cliente_259,Audifonos,Tecnologia,4,45,Transferencia
+260,2025-10-03,Quito,Cliente_260,Tablet,Tecnologia,3,250,Tarjeta
+261,2025-09-23,Manta,Cliente_261,Mouse,Tecnologia,4,25,Efectivo
+262,2025-05-14,Quito,Cliente_262,Audifonos,Tecnologia,2,45,Tarjeta
+263,2025-08-26,Santo Domingo,Cliente_263,Mouse,Tecnologia,3,25,Efectivo
+264,2025-09-06,Loja,Cliente_264,Teclado,Tecnologia,5,35,Efectivo
+265,2025-07-08,Guayaquil,Cliente_265,Celular,Tecnologia,4,420,Tarjeta
+266,2025-12-01,Quito,Cliente_266,Memoria USB,Tecnologia,5,18,Efectivo
+267,2025-07-06,Guayaquil,Cliente_267,Teclado,Tecnologia,3,35,Efectivo
+268,2025-06-02,Ambato,Cliente_268,Disco SSD,Tecnologia,3,90,Transferencia
+269,2025-05-27,Ambato,Cliente_269,Monitor,Tecnologia,2,180,Transferencia
+270,2025-10-19,Loja,Cliente_270,Audifonos,Tecnologia,3,45,Transferencia
+271,2025-11-19,Guayaquil,Cliente_271,Mouse,Tecnologia,5,25,Efectivo
+272,2025-05-07,Guayaquil,Cliente_272,Impresora,Tecnologia,1,140,Tarjeta
+273,2025-05-04,Cuenca,Cliente_273,Mouse,Tecnologia,2,25,Tarjeta
+274,2025-12-17,Cuenca,Cliente_274,Celular,Tecnologia,2,420,Transferencia
+275,2025-06-15,Quito,Cliente_275,Monitor,Tecnologia,5,180,Transferencia
+276,2025-01-21,Machala,Cliente_276,Laptop,Tecnologia,1,850,Tarjeta
+277,2025-03-31,Cuenca,Cliente_277,Memoria USB,Tecnologia,4,18,Efectivo
+278,2025-03-23,Loja,Cliente_278,Disco SSD,Tecnologia,1,90,Efectivo
+279,2025-12-19,Quito,Cliente_279,Monitor,Tecnologia,3,180,Efectivo
+280,2025-03-23,Cuenca,Cliente_280,Audifonos,Tecnologia,3,45,Tarjeta
+281,2025-04-12,Santo Domingo,Cliente_281,Monitor,Tecnologia,5,180,Transferencia
+282,2025-12-17,Santo Domingo,Cliente_282,Teclado,Tecnologia,1,35,Efectivo
+283,2025-07-20,Quito,Cliente_283,Laptop,Tecnologia,5,850,Transferencia
+284,2025-10-06,Loja,Cliente_284,Tablet,Tecnologia,5,250,Efectivo
+285,2025-01-19,Manta,Cliente_285,Impresora,Tecnologia,3,140,Tarjeta
+286,2025-04-26,Machala,Cliente_286,Audifonos,Tecnologia,2,45,Tarjeta
+287,2025-10-20,Ambato,Cliente_287,Tablet,Tecnologia,1,250,Tarjeta
+288,2025-06-15,Ambato,Cliente_288,Memoria USB,Tecnologia,2,18,Efectivo
+289,2025-01-17,Machala,Cliente_289,Tablet,Tecnologia,4,250,Transferencia
+290,2025-02-17,Ambato,Cliente_290,Impresora,Tecnologia,5,140,Tarjeta
+291,2025-06-22,Cuenca,Cliente_291,Memoria USB,Tecnologia,1,18,Tarjeta
+292,2025-02-25,Ambato,Cliente_292,Celular,Tecnologia,2,420,Transferencia
+293,2025-07-09,Quito,Cliente_293,Laptop,Tecnologia,5,850,Efectivo
+294,2025-12-11,Cuenca,Cliente_294,Memoria USB,Tecnologia,5,18,Transferencia
+295,2025-08-04,Cuenca,Cliente_295,Monitor,Tecnologia,1,180,Tarjeta
+296,2025-08-02,Machala,Cliente_296,Memoria USB,Tecnologia,1,18,Transferencia
+297,2025-01-08,Guayaquil,Cliente_297,Audifonos,Tecnologia,1,45,Tarjeta
+298,2025-12-05,Cuenca,Cliente_298,Laptop,Tecnologia,5,850,Efectivo
+299,2025-04-25,Guayaquil,Cliente_299,Tablet,Tecnologia,3,250,Tarjeta
+300,2025-04-29,Machala,Cliente_300,Memoria USB,Tecnologia,5,18,Efectivo
+301,2025-11-19,Guayaquil,Cliente_301,Audifonos,Tecnologia,1,45,Tarjeta
+302,2025-11-13,Manta,Cliente_302,Laptop,Tecnologia,2,850,Efectivo
+303,2025-06-05,Machala,Cliente_303,Mouse,Tecnologia,1,25,Tarjeta
+304,2025-10-09,Santo Domingo,Cliente_304,Disco SSD,Tecnologia,3,90,Tarjeta
+305,2025-10-07,Quito,Cliente_305,Laptop,Tecnologia,1,850,Transferencia
+306,2025-03-30,Quito,Cliente_306,Teclado,Tecnologia,3,35,Transferencia
+307,2025-12-27,Manta,Cliente_307,Teclado,Tecnologia,2,35,Transferencia
+308,2025-06-27,Manta,Cliente_308,Laptop,Tecnologia,5,850,Tarjeta
+309,2025-09-14,Guayaquil,Cliente_309,Monitor,Tecnologia,1,180,Transferencia
+310,2025-01-03,Manta,Cliente_310,Disco SSD,Tecnologia,2,90,Efectivo
+311,2025-08-13,Loja,Cliente_311,Celular,Tecnologia,4,420,Efectivo
+312,2025-04-21,Machala,Cliente_312,Disco SSD,Tecnologia,3,90,Efectivo
+313,2025-06-17,Guayaquil,Cliente_313,Tablet,Tecnologia,1,250,Efectivo
+314,2025-11-28,Manta,Cliente_314,Impresora,Tecnologia,3,140,Transferencia
+315,2025-12-23,Cuenca,Cliente_315,Celular,Tecnologia,3,420,Tarjeta
+316,2025-02-13,Cuenca,Cliente_316,Mouse,Tecnologia,3,25,Transferencia
+317,2025-09-24,Guayaquil,Cliente_317,Mouse,Tecnologia,1,25,Tarjeta
+318,2025-07-24,Santo Domingo,Cliente_318,Memoria USB,Tecnologia,3,18,Transferencia
+319,2025-11-08,Ambato,Cliente_319,Monitor,Tecnologia,5,180,Tarjeta
+320,2025-08-14,Guayaquil,Cliente_320,Celular,Tecnologia,3,420,Efectivo
+321,2025-09-29,Loja,Cliente_321,Disco SSD,Tecnologia,3,90,Tarjeta
+322,2025-12-26,Quito,Cliente_322,Impresora,Tecnologia,5,140,Transferencia
+323,2025-04-18,Santo Domingo,Cliente_323,Audifonos,Tecnologia,1,45,Tarjeta
+324,2025-12-01,Manta,Cliente_324,Monitor,Tecnologia,3,180,Tarjeta
+325,2025-05-08,Guayaquil,Cliente_325,Teclado,Tecnologia,5,35,Tarjeta
+326,2025-03-25,Quito,Cliente_326,Mouse,Tecnologia,4,25,Tarjeta
+327,2025-12-05,Loja,Cliente_327,Laptop,Tecnologia,4,850,Tarjeta
+328,2025-05-06,Quito,Cliente_328,Memoria USB,Tecnologia,1,18,Tarjeta
+329,2025-11-29,Loja,Cliente_329,Laptop,Tecnologia,3,850,Transferencia
+330,2025-06-25,Quito,Cliente_330,Impresora,Tecnologia,3,140,Efectivo
+331,2025-12-16,Loja,Cliente_331,Disco SSD,Tecnologia,1,90,Efectivo
+332,2025-02-06,Quito,Cliente_332,Celular,Tecnologia,3,420,Transferencia
+333,2025-05-10,Manta,Cliente_333,Tablet,Tecnologia,2,250,Transferencia
+334,2025-06-09,Quito,Cliente_334,Disco SSD,Tecnologia,2,90,Efectivo
+335,2025-08-29,Loja,Cliente_335,Tablet,Tecnologia,4,250,Tarjeta
+336,2025-08-30,Cuenca,Cliente_336,Teclado,Tecnologia,1,35,Efectivo
+337,2025-08-31,Loja,Cliente_337,Monitor,Tecnologia,4,180,Efectivo
+338,2025-09-18,Santo Domingo,Cliente_338,Tablet,Tecnologia,5,250,Efectivo
+339,2025-03-05,Cuenca,Cliente_339,Tablet,Tecnologia,1,250,Transferencia
+340,2025-05-05,Manta,Cliente_340,Impresora,Tecnologia,5,140,Transferencia
+341,2025-10-21,Machala,Cliente_341,Laptop,Tecnologia,5,850,Transferencia
+342,2025-05-20,Cuenca,Cliente_342,Tablet,Tecnologia,2,250,Tarjeta
+343,2025-10-14,Cuenca,Cliente_343,Laptop,Tecnologia,1,850,Efectivo
+344,2025-10-12,Cuenca,Cliente_344,Celular,Tecnologia,1,420,Tarjeta
+345,2025-03-27,Loja,Cliente_345,Celular,Tecnologia,1,420,Efectivo
+346,2025-09-19,Ambato,Cliente_346,Mouse,Tecnologia,3,25,Transferencia
+347,2025-08-06,Santo Domingo,Cliente_347,Impresora,Tecnologia,4,140,Efectivo
+348,2025-05-25,Ambato,Cliente_348,Monitor,Tecnologia,1,180,Tarjeta
+349,2025-03-22,Machala,Cliente_349,Laptop,Tecnologia,4,850,Transferencia
+350,2025-12-24,Machala,Cliente_350,Disco SSD,Tecnologia,2,90,Tarjeta
+351,2025-02-26,Manta,Cliente_351,Celular,Tecnologia,3,420,Efectivo
+352,2025-05-03,Santo Domingo,Cliente_352,Disco SSD,Tecnologia,5,90,Tarjeta
+353,2025-08-18,Ambato,Cliente_353,Memoria USB,Tecnologia,5,18,Transferencia
+354,2025-05-15,Machala,Cliente_354,Celular,Tecnologia,1,420,Efectivo
+355,2025-08-24,Machala,Cliente_355,Monitor,Tecnologia,3,180,Efectivo
+356,2025-10-04,Loja,Cliente_356,Disco SSD,Tecnologia,4,90,Efectivo
+357,2025-05-30,Loja,Cliente_357,Disco SSD,Tecnologia,4,90,Tarjeta
+358,2025-08-17,Quito,Cliente_358,Laptop,Tecnologia,3,850,Efectivo
+359,2025-11-28,Cuenca,Cliente_359,Disco SSD,Tecnologia,4,90,Tarjeta
+360,2025-03-01,Guayaquil,Cliente_360,Memoria USB,Tecnologia,1,18,Efectivo
+361,2025-11-30,Machala,Cliente_361,Memoria USB,Tecnologia,3,18,Transferencia
+362,2025-12-12,Santo Domingo,Cliente_362,Laptop,Tecnologia,4,850,Efectivo
+363,2025-01-06,Santo Domingo,Cliente_363,Laptop,Tecnologia,4,850,Tarjeta
+364,2025-05-19,Ambato,Cliente_364,Tablet,Tecnologia,3,250,Efectivo
+365,2025-01-13,Machala,Cliente_365,Memoria USB,Tecnologia,5,18,Transferencia
+366,2025-12-30,Machala,Cliente_366,Disco SSD,Tecnologia,3,90,Transferencia
+367,2025-07-20,Cuenca,Cliente_367,Audifonos,Tecnologia,2,45,Efectivo
+368,2025-12-01,Cuenca,Cliente_368,Tablet,Tecnologia,4,250,Transferencia
+369,2025-06-10,Ambato,Cliente_369,Memoria USB,Tecnologia,5,18,Transferencia
+370,2025-12-16,Manta,Cliente_370,Tablet,Tecnologia,5,250,Efectivo
+371,2025-08-18,Santo Domingo,Cliente_371,Audifonos,Tecnologia,4,45,Efectivo
+372,2025-07-12,Guayaquil,Cliente_372,Celular,Tecnologia,2,420,Tarjeta
+373,2025-06-16,Santo Domingo,Cliente_373,Audifonos,Tecnologia,5,45,Efectivo
+374,2025-10-17,Ambato,Cliente_374,Tablet,Tecnologia,1,250,Tarjeta
+375,2025-08-14,Santo Domingo,Cliente_375,Monitor,Tecnologia,1,180,Tarjeta
+376,2025-12-02,Manta,Cliente_376,Monitor,Tecnologia,5,180,Efectivo
+377,2025-08-01,Guayaquil,Cliente_377,Monitor,Tecnologia,4,180,Tarjeta
+378,2025-12-13,Guayaquil,Cliente_378,Memoria USB,Tecnologia,2,18,Efectivo
+379,2025-03-06,Santo Domingo,Cliente_379,Audifonos,Tecnologia,4,45,Efectivo
+380,2025-08-03,Guayaquil,Cliente_380,Celular,Tecnologia,1,420,Transferencia
+381,2025-06-01,Cuenca,Cliente_381,Laptop,Tecnologia,2,850,Transferencia
+382,2025-05-26,Ambato,Cliente_382,Laptop,Tecnologia,5,850,Efectivo
+383,2025-07-01,Loja,Cliente_383,Audifonos,Tecnologia,5,45,Tarjeta
+384,2025-08-15,Quito,Cliente_384,Mouse,Tecnologia,5,25,Transferencia
+385,2025-04-10,Loja,Cliente_385,Celular,Tecnologia,1,420,Tarjeta
+386,2025-07-11,Machala,Cliente_386,Impresora,Tecnologia,5,140,Transferencia
+387,2025-08-19,Loja,Cliente_387,Teclado,Tecnologia,3,35,Tarjeta
+388,2025-03-22,Quito,Cliente_388,Impresora,Tecnologia,3,140,Transferencia
+389,2025-03-11,Santo Domingo,Cliente_389,Disco SSD,Tecnologia,4,90,Transferencia
+390,2025-11-22,Santo Domingo,Cliente_390,Memoria USB,Tecnologia,2,18,Efectivo
+391,2025-03-04,Santo Domingo,Cliente_391,Celular,Tecnologia,4,420,Transferencia
+392,2025-10-01,Machala,Cliente_392,Mouse,Tecnologia,2,25,Tarjeta
+393,2025-10-28,Loja,Cliente_393,Monitor,Tecnologia,5,180,Transferencia
+394,2025-02-02,Quito,Cliente_394,Tablet,Tecnologia,5,250,Efectivo
+395,2025-02-23,Guayaquil,Cliente_395,Monitor,Tecnologia,5,180,Transferencia
+396,2025-11-16,Machala,Cliente_396,Memoria USB,Tecnologia,4,18,Transferencia
+397,2025-01-24,Guayaquil,Cliente_397,Teclado,Tecnologia,4,35,Tarjeta
+398,2025-04-07,Santo Domingo,Cliente_398,Laptop,Tecnologia,5,850,Tarjeta
+399,2025-07-23,Manta,Cliente_399,Celular,Tecnologia,4,420,Tarjeta
+400,2025-03-10,Loja,Cliente_400,Celular,Tecnologia,1,420,Transferencia
+401,2025-09-09,Quito,Cliente_401,Monitor,Tecnologia,1,180,Transferencia
+402,2025-12-20,Cuenca,Cliente_402,Tablet,Tecnologia,3,250,Tarjeta
+403,2025-01-03,Cuenca,Cliente_403,Impresora,Tecnologia,3,140,Tarjeta
+404,2025-12-30,Machala,Cliente_404,Impresora,Tecnologia,4,140,Efectivo
+405,2025-05-22,Santo Domingo,Cliente_405,Memoria USB,Tecnologia,5,18,Tarjeta
+406,2025-08-18,Santo Domingo,Cliente_406,Tablet,Tecnologia,4,250,Efectivo
+407,2025-07-06,Cuenca,Cliente_407,Monitor,Tecnologia,3,180,Transferencia
+408,2025-07-30,Ambato,Cliente_408,Memoria USB,Tecnologia,5,18,Efectivo
+409,2025-10-08,Machala,Cliente_409,Impresora,Tecnologia,5,140,Transferencia
+410,2025-04-08,Cuenca,Cliente_410,Monitor,Tecnologia,2,180,Tarjeta
+411,2025-07-04,Quito,Cliente_411,Mouse,Tecnologia,5,25,Transferencia
+412,2025-07-11,Guayaquil,Cliente_412,Laptop,Tecnologia,2,850,Transferencia
+413,2025-10-25,Machala,Cliente_413,Audifonos,Tecnologia,1,45,Tarjeta
+414,2025-12-19,Cuenca,Cliente_414,Disco SSD,Tecnologia,1,90,Transferencia
+415,2025-03-25,Manta,Cliente_415,Mouse,Tecnologia,5,25,Efectivo
+416,2025-03-12,Santo Domingo,Cliente_416,Impresora,Tecnologia,1,140,Tarjeta
+417,2025-10-04,Ambato,Cliente_417,Memoria USB,Tecnologia,3,18,Transferencia
+418,2025-03-26,Quito,Cliente_418,Celular,Tecnologia,4,420,Efectivo
+419,2025-06-14,Cuenca,Cliente_419,Memoria USB,Tecnologia,4,18,Tarjeta
+420,2025-09-23,Ambato,Cliente_420,Teclado,Tecnologia,3,35,Transferencia
+421,2025-03-21,Machala,Cliente_421,Memoria USB,Tecnologia,1,18,Tarjeta
+422,2025-01-22,Cuenca,Cliente_422,Mouse,Tecnologia,4,25,Tarjeta
+423,2025-08-07,Machala,Cliente_423,Memoria USB,Tecnologia,2,18,Efectivo
+424,2025-06-28,Santo Domingo,Cliente_424,Impresora,Tecnologia,5,140,Transferencia
+425,2025-03-15,Ambato,Cliente_425,Audifonos,Tecnologia,1,45,Transferencia
+426,2025-12-22,Quito,Cliente_426,Memoria USB,Tecnologia,3,18,Efectivo
+427,2025-06-13,Guayaquil,Cliente_427,Disco SSD,Tecnologia,4,90,Efectivo
+428,2025-12-24,Machala,Cliente_428,Celular,Tecnologia,5,420,Transferencia
+429,2025-09-18,Quito,Cliente_429,Tablet,Tecnologia,3,250,Transferencia
+430,2025-01-06,Loja,Cliente_430,Teclado,Tecnologia,3,35,Efectivo
+431,2025-04-27,Manta,Cliente_431,Disco SSD,Tecnologia,1,90,Efectivo
+432,2025-01-28,Quito,Cliente_432,Teclado,Tecnologia,3,35,Transferencia
+433,2025-01-17,Manta,Cliente_433,Mouse,Tecnologia,1,25,Tarjeta
+434,2025-04-05,Manta,Cliente_434,Monitor,Tecnologia,4,180,Efectivo
+435,2025-10-24,Ambato,Cliente_435,Tablet,Tecnologia,1,250,Transferencia
+436,2025-03-09,Manta,Cliente_436,Audifonos,Tecnologia,3,45,Transferencia
+437,2025-02-26,Manta,Cliente_437,Tablet,Tecnologia,5,250,Transferencia
+438,2025-06-08,Guayaquil,Cliente_438,Celular,Tecnologia,1,420,Tarjeta
+439,2025-04-29,Ambato,Cliente_439,Disco SSD,Tecnologia,1,90,Efectivo
+440,2025-03-13,Loja,Cliente_440,Disco SSD,Tecnologia,2,90,Transferencia
+441,2025-11-28,Quito,Cliente_441,Audifonos,Tecnologia,2,45,Tarjeta
+442,2025-11-19,Machala,Cliente_442,Disco SSD,Tecnologia,5,90,Tarjeta
+443,2025-01-30,Santo Domingo,Cliente_443,Laptop,Tecnologia,4,850,Transferencia
+444,2025-02-07,Cuenca,Cliente_444,Impresora,Tecnologia,2,140,Transferencia
+445,2025-09-20,Loja,Cliente_445,Celular,Tecnologia,2,420,Tarjeta
+446,2025-08-09,Manta,Cliente_446,Audifonos,Tecnologia,3,45,Efectivo
+447,2025-01-11,Loja,Cliente_447,Teclado,Tecnologia,2,35,Tarjeta
+448,2025-02-05,Manta,Cliente_448,Disco SSD,Tecnologia,5,90,Transferencia
+449,2025-04-02,Quito,Cliente_449,Laptop,Tecnologia,5,850,Transferencia
+450,2025-04-30,Ambato,Cliente_450,Tablet,Tecnologia,1,250,Tarjeta
+451,2025-02-11,Loja,Cliente_451,Audifonos,Tecnologia,2,45,Transferencia
+452,2025-12-28,Loja,Cliente_452,Laptop,Tecnologia,2,850,Transferencia
+453,2025-03-13,Quito,Cliente_453,Tablet,Tecnologia,3,250,Efectivo
+454,2025-08-20,Santo Domingo,Cliente_454,Teclado,Tecnologia,5,35,Tarjeta
+455,2025-05-20,Quito,Cliente_455,Disco SSD,Tecnologia,2,90,Transferencia
+456,2025-10-09,Manta,Cliente_456,Disco SSD,Tecnologia,5,90,Transferencia
+457,2025-02-03,Quito,Cliente_457,Monitor,Tecnologia,3,180,Efectivo
+458,2025-06-11,Cuenca,Cliente_458,Mouse,Tecnologia,4,25,Transferencia
+459,2025-02-07,Guayaquil,Cliente_459,Teclado,Tecnologia,3,35,Efectivo
+460,2025-08-28,Santo Domingo,Cliente_460,Tablet,Tecnologia,5,250,Transferencia
+461,2025-01-23,Santo Domingo,Cliente_461,Audifonos,Tecnologia,3,45,Transferencia
+462,2025-03-19,Guayaquil,Cliente_462,Tablet,Tecnologia,5,250,Efectivo
+463,2025-11-14,Quito,Cliente_463,Teclado,Tecnologia,2,35,Transferencia
+464,2025-02-06,Manta,Cliente_464,Monitor,Tecnologia,4,180,Efectivo
+465,2025-01-06,Ambato,Cliente_465,Audifonos,Tecnologia,2,45,Tarjeta
+466,2025-07-21,Ambato,Cliente_466,Mouse,Tecnologia,2,25,Tarjeta
+467,2025-10-28,Ambato,Cliente_467,Teclado,Tecnologia,3,35,Transferencia
+468,2025-09-26,Machala,Cliente_468,Laptop,Tecnologia,5,850,Tarjeta
+469,2025-01-28,Santo Domingo,Cliente_469,Impresora,Tecnologia,5,140,Transferencia
+470,2025-03-03,Quito,Cliente_470,Monitor,Tecnologia,3,180,Transferencia
+471,2025-01-12,Guayaquil,Cliente_471,Impresora,Tecnologia,4,140,Efectivo
+472,2025-08-27,Santo Domingo,Cliente_472,Celular,Tecnologia,2,420,Tarjeta
+473,2025-02-07,Santo Domingo,Cliente_473,Memoria USB,Tecnologia,1,18,Tarjeta
+474,2025-11-18,Loja,Cliente_474,Audifonos,Tecnologia,1,45,Tarjeta
+475,2025-07-08,Machala,Cliente_475,Monitor,Tecnologia,2,180,Transferencia
+476,2025-04-08,Manta,Cliente_476,Mouse,Tecnologia,4,25,Efectivo
+477,2025-09-24,Machala,Cliente_477,Mouse,Tecnologia,5,25,Tarjeta
+478,2025-06-06,Machala,Cliente_478,Monitor,Tecnologia,1,180,Tarjeta
+479,2025-10-02,Ambato,Cliente_479,Celular,Tecnologia,1,420,Efectivo
+480,2025-11-01,Cuenca,Cliente_480,Memoria USB,Tecnologia,3,18,Efectivo
+481,2025-11-19,Cuenca,Cliente_481,Laptop,Tecnologia,4,850,Tarjeta
+482,2025-12-09,Loja,Cliente_482,Monitor,Tecnologia,1,180,Tarjeta
+483,2025-10-28,Manta,Cliente_483,Mouse,Tecnologia,3,25,Efectivo
+484,2025-11-30,Ambato,Cliente_484,Monitor,Tecnologia,3,180,Tarjeta
+485,2025-11-21,Machala,Cliente_485,Monitor,Tecnologia,4,180,Transferencia
+486,2025-09-30,Santo Domingo,Cliente_486,Monitor,Tecnologia,4,180,Tarjeta
+487,2025-07-08,Ambato,Cliente_487,Audifonos,Tecnologia,3,45,Tarjeta
+488,2025-12-22,Manta,Cliente_488,Impresora,Tecnologia,2,140,Tarjeta
+489,2025-02-08,Santo Domingo,Cliente_489,Mouse,Tecnologia,5,25,Transferencia
+490,2025-08-15,Loja,Cliente_490,Audifonos,Tecnologia,5,45,Tarjeta
+491,2025-08-27,Manta,Cliente_491,Memoria USB,Tecnologia,1,18,Transferencia
+492,2025-01-18,Manta,Cliente_492,Impresora,Tecnologia,5,140,Tarjeta
+493,2025-01-12,Quito,Cliente_493,Impresora,Tecnologia,2,140,Transferencia
+494,2025-04-27,Quito,Cliente_494,Impresora,Tecnologia,5,140,Efectivo
+495,2025-09-14,Machala,Cliente_495,Celular,Tecnologia,2,420,Transferencia
+496,2025-12-18,Cuenca,Cliente_496,Laptop,Tecnologia,2,850,Transferencia
+497,2025-12-30,Machala,Cliente_497,Audifonos,Tecnologia,1,45,Transferencia
+498,2025-08-08,Cuenca,Cliente_498,Memoria USB,Tecnologia,2,18,Transferencia
+499,2025-12-24,Manta,Cliente_499,Audifonos,Tecnologia,5,45,Transferencia
+500,2025-10-20,Guayaquil,Cliente_500,Audifonos,Tecnologia,1,45,Transferencia
